@@ -63,14 +63,12 @@ directionally positive (11.75% → 15.9%) but **not statistically significant**
 an inconclusive result.
 
 ## Repo Structure
-
-```​
-sql/           -- all BigQuery SQL queries, one file per analysis step
-
+```
+sql/           -- BigQuery SQL queries, one file per analysis step
 memo/          -- full findings memo (Word doc)
-
 screenshots/   -- Amplitude chart exports
-​```
+```
+
 
 ## Note on Cross-Tool Validation
 Funnel and retention numbers were independently reproduced in both SQL and 

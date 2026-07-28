@@ -15,8 +15,13 @@ shifted forward by exactly 9 years on upload (Jan 2017 → Jan 2026) to make
 them viewable. The underlying event sequence and time gaps between events 
 are unchanged — only the calendar labels differ from the SQL analysis above.*
 
-<img src="./screenshots/amplitude_funnel_chart.png" width="600">
-<img src="./screenshots/amplitude_retention_chart.png" width="600">
+<table>
+<tr>
+<td><img src="./screenshots/amplitude_funnel_chart.png" width="400"></td>
+<td><img src="./screenshots/amplitude_retention_chart.png" width="400"></td>
+</tr>
+</table> 
+
 - **Tableau Public** — executive dashboard
 - [**Full memo (Word doc)**](./memo/product_analytics_memo.docx) — findings and recommendations
 
@@ -61,7 +66,9 @@ an inconclusive result.
 
 ​```
 sql/           -- all BigQuery SQL queries, one file per analysis step
+
 memo/          -- full findings memo (Word doc)
+
 screenshots/   -- Amplitude chart exports
 ​```
 

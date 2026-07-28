@@ -8,6 +8,15 @@ statistical significance testing.
 ## Tools Used
 - **SQL (BigQuery)** — data extraction, funnel construction, cohort retention
 - **Amplitude** — funnel and retention visualization, cross-validated against SQL
+- ### Amplitude Charts
+*Note: dates in these charts show as 2026 rather than 2017. Amplitude's free 
+tier only displays data within a recent rolling window, so timestamps were 
+shifted forward by exactly 9 years on upload (Jan 2017 → Jan 2026) to make 
+them viewable. The underlying event sequence and time gaps between events 
+are unchanged — only the calendar labels differ from the SQL analysis above.*
+
+![Amplitude Funnel](./screenshots/amplitude_funnel_chart.png)
+![Amplitude Retention](./screenshots/amplitude_retention_chart.png)
 - **Tableau Public** — executive dashboard
 - [**Full memo (Word doc)**](./memo/product_analytics_memo.docx) — findings and recommendations
 

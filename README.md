@@ -17,8 +17,8 @@ are unchanged — only the calendar labels differ from the SQL analysis above.*
 
 <table>
 <tr>
-<td><img src="./screenshots/amplitude_funnel_chart.png" width="550"></td>
-<td><img src="./screenshots/amplitude_retention_chart.png" width="550"></td>
+<td><img src="./screenshots/amplitude_funnel_chart.png" width="600"></td>
+<td><img src="./screenshots/amplitude_retention_chart.png" width="600"></td>
 </tr>
 </table> 
 

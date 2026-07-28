@@ -15,9 +15,9 @@ shifted forward by exactly 9 years on upload (Jan 2017 → Jan 2026) to make
 them viewable. The underlying event sequence and time gaps between events 
 are unchanged — only the calendar labels differ from the SQL analysis above.*
 
-<img src="./screenshots/amplitude_funnel_chart.png" width="800">
+<img src="./screenshots/amplitude_funnel_chart.png" width="600">
 <br>
-<img src="./screenshots/amplitude_retention_chart.png" width="800">
+<img src="./screenshots/amplitude_retention_chart.png" width="600">
 
 - **Tableau Public** — executive dashboard
 - [**Full memo (Word doc)**](./memo/product_analytics_memo.docx) — findings and recommendations

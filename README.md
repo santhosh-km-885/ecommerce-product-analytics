@@ -17,8 +17,8 @@ are unchanged — only the calendar labels differ from the SQL analysis above.*
 
 <table>
 <tr>
-<td><img src="./screenshots/amplitude_funnel_chart.png" width="400"></td>
-<td><img src="./screenshots/amplitude_retention_chart.png" width="400"></td>
+<td><img src="./screenshots/amplitude_funnel_chart.png" width="480"></td>
+<td><img src="./screenshots/amplitude_retention_chart.png" width="480"></td>
 </tr>
 </table> 
 
@@ -64,13 +64,13 @@ an inconclusive result.
 
 ## Repo Structure
 
-​
+```​
 sql/           -- all BigQuery SQL queries, one file per analysis step
 
 memo/          -- full findings memo (Word doc)
 
 screenshots/   -- Amplitude chart exports
-​
+​```
 
 ## Note on Cross-Tool Validation
 Funnel and retention numbers were independently reproduced in both SQL and 
